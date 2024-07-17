@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Portofolio"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "JCWD2902-FE"
+  }
+}
